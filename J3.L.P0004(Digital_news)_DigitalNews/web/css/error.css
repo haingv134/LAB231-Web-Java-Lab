@@ -1,0 +1,9 @@
+h1{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5vh;
+    color: red;
+    background-color: aliceblue;
+    height: 20vh;
+    width: 50vw;
+}

@@ -1,0 +1,38 @@
+#main-content{
+    display:block;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#main-content #title{
+    color: #0380c0;
+    font-weight: bold;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px #b4b4b4 solid;
+}
+tr:first-child th:first-child{
+    background-color: #dbdcdd;
+    height: 60px;
+    color: black;
+}
+th{
+    background-color: #f4f5f5;
+    height: 40px;
+}
+td{
+    height: 45px;
+    padding-left: 5px;
+}
+td:first-child{
+    color:#509048;
+    font-weight: bold;
+}
+@media screen and (max-width: 1100px){
+    #main-content{
+        padding-right: 5%;
+    }
+}

@@ -1,0 +1,25 @@
+.left{
+    border-right: 2px dotted lightgrey;
+}
+.title{
+    color: #42554e;
+    font-weight: bold;
+    font-size: 130%;
+}
+.image{
+    width: 20vw;
+    height: auto;
+    padding-bottom: 2vh;
+}
+.description{
+    text-align: right;
+    color: #42554e;
+    font-size: 85%;
+}
+.content{
+    border-bottom: 1px solid #e0e0e0;
+    color: #42554e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+}

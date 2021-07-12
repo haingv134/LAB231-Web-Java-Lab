@@ -1,0 +1,21 @@
+#main-content{
+    display:block;
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: center;
+}
+#main-content #title{
+    color: #0b73ae;
+}
+#form-area{
+    text-align: center;
+    padding: 3% 5%;
+}
+tr td:first-child{
+    text-align:right;
+}
+@media screen and (max-width: 1100px){
+    #main-content{
+        padding-right: 25%;
+    }
+}

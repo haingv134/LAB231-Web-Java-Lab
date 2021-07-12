@@ -1,0 +1,23 @@
+#nav-bar{
+    background-image: url("../img/menu_bg.gif");
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 7vh;
+    width: 90%;
+}
+#nav-bar>ul{
+    padding-top: 10px;
+    text-align: center;
+}
+#nav-bar>ul>li{
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 1vw;
+    font-size: large;
+}
+#nav-bar>ul>li>a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #61574C;
+}

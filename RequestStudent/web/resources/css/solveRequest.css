@@ -1,0 +1,20 @@
+#main-content{
+    display:block;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#main-content #title{
+    color: #0380c0;
+    font-weight: bold;
+}
+#form-area{
+    padding-left: 10%;
+}
+tr td:first-child{
+    text-align: right;
+}
+@media screen and (max-width: 1100px){
+    #main-content{
+        padding-right: 5%;
+    }
+}

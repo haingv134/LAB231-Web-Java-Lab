@@ -1,0 +1,24 @@
+.preheader{
+    background-image: url('../materials/images/preheader.jpg');
+}
+
+.header{
+    background-image: url('../materials/images/header.jpg');
+    box-sizing: border-box;
+}
+.header h2{
+    color: white;
+    margin: 0;
+    padding-left: 7vw;
+    padding-top: 0.5vh;
+}
+.menu{
+    background-image: url('../materials/images/menu.jpg');
+    box-sizing: border-box;
+    padding-left: 7vw;
+    padding-top: 1vh;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+}

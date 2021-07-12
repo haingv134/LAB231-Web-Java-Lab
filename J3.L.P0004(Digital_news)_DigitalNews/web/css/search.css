@@ -1,0 +1,12 @@
+.highlight {
+  background-color: yellow;
+}
+.titleResult{
+    color: #42554e;
+    font-weight: bold;
+    font-size: 130%;
+}
+.moveOtherPageResult{
+    display: inline;
+    color: #42554e;
+}
